@@ -1,4 +1,9 @@
 # act2_3
-# H1 Despliegue de aplicaciones
-## H2 Actividad 2_4
-### H3 Repositorio
+# Despliegue de aplicaciones
+## Actividad 2_4
+### Repositorio
+**texto en negrita**
+_cursiva_
+[title](https://www.google.com)
+![github](github.jpg)
+`esto es un bloque de codigo`
